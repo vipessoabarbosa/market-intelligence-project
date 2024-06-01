@@ -1,7 +1,7 @@
 ```html
 <h1>
     <a href="https://github.com/vipessoabarbosa/market-intelligence-project">
-        <img align="center" width="40px" src="https://github.com/vipessoabarbosa/market-intelligence-project/image.png" />
+        <img align="center" width="40px" src="https://raw.githubusercontent.com/vipessoabarbosa/market-intelligence-project/main/image.png" />
     </a>
     <span>Projeto de Inteligência de Mercado: Otimizando a Realocação de Produtos e Estratégias de Negócio</span>
 </h1>
