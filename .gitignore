@@ -1,0 +1,28 @@
+# Arquivos de compilação
+*.pyc
+__pycache__/
+
+# Ambiente virtual
+venv/
+env/
+.venv/
+ENV/
+
+# Arquivos de dependências
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
+
+# Arquivos de configuração local
+*.log
+*.sqlite3
+*.swp
+
+# Arquivos de cache e arquivos temporários
+*.cache
+*.bak
+*.tmp
+*.bak
+*~
