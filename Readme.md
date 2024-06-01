@@ -1,11 +1,4 @@
-```html
-<h1>
-    <a href="https://github.com/vipessoabarbosa/market-intelligence-project">
-        <img align="center" width="40px" src="https://raw.githubusercontent.com/vipessoabarbosa/market-intelligence-project/main/image.png" />
-    </a>
-    <span>Projeto de Inteligência de Mercado: Otimizando a Realocação de Produtos e Estratégias de Negócio</span>
-</h1>
-```
+# Projeto de Inteligência de Mercado: Otimizando a Realocação de Produtos e Estratégias de Negócio</span>
 
 ## Introdução
 O objetivo deste projeto é otimizar a realocação de produtos e fornecer insights valiosos sobre o mercado, tendências do setor e comportamento do consumidor. Este projeto visa auxiliar empresas a direcionar suas iniciativas de marketing, vendas e desenvolvimento de produtos, maximizando a eficiência operacional e o impacto positivo de suas operações.
